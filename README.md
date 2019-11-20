@@ -21,7 +21,7 @@ const arr = [5, 7, 9];
 arr.push(6); // returns ???
 ```
 
-3. Change all odd numbers to be those numbers multiplied by two:
+3. Change all numbers to be those numbers multiplied by two:
 ```js
 const numbers = [4, 9, 7, 2, 1, 8];
 
